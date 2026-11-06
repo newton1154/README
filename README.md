@@ -7,7 +7,7 @@
 - 🔭 Сейчас работаю над: [например, настройка Ansible для управления домашними VM]
 - 🌱 Изучаю: [например, Docker, Zabbix, PowerShell]
 - 🎯 Цель: [например, сдать CompTIA Linux+ и перейти на позицию SysAdmin]
-- 📫 Как со мной связаться: [email@example.com] | [LinkedIn](ссылка)
+- 📫 Как со мной связаться: [emirhan.kudaikulov@gmail.com] | [Telegram @newton1154]
 
 ---
 
